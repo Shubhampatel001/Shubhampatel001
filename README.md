@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm SHUBHAM PATEL</h1>
 <h3 align="center">A passionate full-Stack Web developer from India</h3>
 
-<img align="right" alt="Animated GIF" width="400" src="https://media1.tenor.com/m/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif"></img>
+<img align="right" alt="Animated GIF" width="300" src="https://media1.tenor.com/m/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampatel001&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampatel001" /> </p>
 
