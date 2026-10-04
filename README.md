@@ -251,9 +251,7 @@ Jutro Digital · Guidewire PolicyCenter · P&C Insurance
 <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Shubhampatel001&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
+<br/>
 
 </div>
 
