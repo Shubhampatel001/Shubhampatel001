@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:06B6D4&height=220&section=header&text=SHUBHAM%20PATEL&fontSize=46&fontColor=FFFFFF&fontAlignY=35&desc=FULL-STACK%20SOFTWARE%20ENGINEER&descAlignY=57&descSize=17&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=800&lines=Building+full-stack+products+from+idea+to+deployment.;Java+%7C+Spring+Boot+%7C+React+%7C+Angular+%7C+AI;Turning+ideas+into+things+people+can+actually+use." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=850&lines=Building+full-stack+products+from+idea+to+deployment.;Java+%7C+Spring+Boot+%7C+React+%7C+Angular+%7C+AI;Frontend+%7C+Backend+%7C+Cloud+%7C+Guidewire+Digital;Turning+ideas+into+things+people+can+actually+use." />
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-### ⚡ Full-Stack · Backend · AI · Cloud
+### ⚡ Full-Stack · Frontend · Backend · AI · Cloud · Guidewire Digital
 
 </div>
 
@@ -32,7 +32,7 @@
 
 ## 👋 Hey, I'm Shubham
 
-**Software Engineer** who loves building complete products — from UI and APIs to databases, authentication, cloud deployment, and AI features.
+**Full-Stack Software Engineer** who enjoys building complete products — from polished interfaces and APIs to databases, authentication, cloud deployment, and AI-powered features.
 
 ```text
 Frontend        → React • Next.js • Angular • Tailwind
@@ -40,6 +40,7 @@ Backend         → Java • Spring Boot • Node.js • FastAPI
 Data            → PostgreSQL • MySQL • MongoDB
 AI              → RAG • Embeddings • LLM APIs
 Cloud & DevOps  → Google Cloud • Docker • GitHub Actions
+Guidewire       → Jutro Digital • PolicyCenter
 ```
 
 > **I don't just write code. I like building things people can use.**
@@ -166,9 +167,15 @@ Java · Python · C++ · JavaScript · TypeScript · Gosu
 
 <br/><br/>
 
-**Full Stack**
+**Frontend**
 
-React · Next.js · Angular · Node.js · Spring Boot · FastAPI
+React · Next.js · Angular · TypeScript · Tailwind CSS · HTML · CSS
+
+<br/><br/>
+
+**Backend**
+
+Java · Spring Boot · Spring Security · Node.js · FastAPI · REST APIs
 
 <br/><br/>
 
@@ -178,9 +185,15 @@ PostgreSQL · MySQL · MongoDB · Docker · Google Cloud · GitHub Actions
 
 <br/><br/>
 
-**AI**
+**AI & Intelligent Systems**
 
 RAG · Embeddings · LLM APIs · Genetic Algorithms · NEAT
+
+<br/><br/>
+
+**Guidewire Digital**
+
+Jutro Digital · Guidewire PolicyCenter · P&C Insurance
 
 </div>
 
@@ -212,6 +225,7 @@ RAG · Embeddings · LLM APIs · Genetic Algorithms · NEAT
 |:---:|:---:|:---:|
 | Full-Stack Products | DSA & System Design | AI Engineering |
 | AI-powered Tools | Spring Boot | Cloud Architecture |
+| Digital Experiences | Java | Guidewire Digital |
 
 </div>
 
@@ -234,12 +248,12 @@ RAG · Embeddings · LLM APIs · Genetic Algorithms · NEAT
 <div align="center">
 
 <a href="mailto:vtshubham01@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Build%20Something-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shubhampatel001&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Shubhampatel001&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
