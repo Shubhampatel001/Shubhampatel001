@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="[https://shubhampatel001.vercel.app/">
+<a href="https://shubhampatel001.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <!-- &nbsp;
