@@ -1,115 +1,246 @@
 <div align="center">
 
-# Shubham Patel
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:06B6D4&height=220&section=header&text=SHUBHAM%20PATEL&fontSize=46&fontColor=FFFFFF&fontAlignY=35&desc=FULL-STACK%20SOFTWARE%20ENGINEER&descAlignY=57&descSize=17&animation=twinkling" width="100%"/>
 
-### Software Engineer · Full-Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=800&lines=Building+full-stack+products+from+idea+to+deployment.;Java+%7C+Spring+Boot+%7C+React+%7C+Angular+%7C+AI;Turning+ideas+into+things+people+can+actually+use." />
 
-Building reliable frontend and backend services, intelligent applications, and developer-focused products.
+<br/>
 
-[LinkedIn](https://www.linkedin.com/in/shubham-patel-a978481b9/) · [Portfolio](https://github.com/Shubhampatel001/portfolio) · [LeetCode](https://leetcode.com/vtshubham01)
+<a href="https://www.linkedin.com/in/shubham-patel-a978481b9/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Shubhampatel001/portfolio">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/vtshubham01">
+<img src="https://img.shields.io/badge/LeetCode-Profile-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⚡ Full-Stack · Backend · AI · Cloud
 
 </div>
 
 ---
 
-## About
+## 👋 Hey, I'm Shubham
 
-I'm a Software Engineer focused on **full-stack development, APIs, cloud technologies, and applied AI**.
+**Software Engineer** who loves building complete products — from UI and APIs to databases, authentication, cloud deployment, and AI features.
 
-I enjoy turning ideas into production-minded systems — from REST APIs and authentication to RAG applications, evolutionary simulations, and full-stack products.
+```text
+Frontend        → React • Next.js • Angular • Tailwind
+Backend         → Java • Spring Boot • Node.js • FastAPI
+Data            → PostgreSQL • MySQL • MongoDB
+AI              → RAG • Embeddings • LLM APIs
+Cloud & DevOps  → Google Cloud • Docker • GitHub Actions
+```
 
-Currently sharpening my **Java, Spring Boot, system design, DSA, and AI engineering** skills.
+> **I don't just write code. I like building things people can use.**
 
 ---
 
-## Tech Stack
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🔎 Perplexa</h3>
+
+<b>AI Search × RAG × LLMs</b>
+
+<br/><br/>
+
+An AI-powered search and chat application that retrieves web content, finds relevant context using embeddings, and generates grounded responses.
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/Shubhampatel001/Perplexa">↗ View Project</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🌾 FarmAid</h3>
+
+<b>Full-Stack Agricultural Platform</b>
+
+<br/><br/>
+
+A complete platform for farmers and loan officers with authentication, role-based access, applications, approvals, documents, testing, Docker and CI.
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/Shubhampatel001/farmAid">↗ View Project</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🚗 EvoDrive</h3>
+
+<b>Evolutionary Autonomous Driving</b>
+
+<br/><br/>
+
+A browser-based driving simulation where autonomous behaviour evolves through genetic algorithms, pathfinding and collision detection.
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Genetic_Algorithms-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Dijkstra-2563EB?style=flat-square"/>
+
+<br/><br/>
+
+<a href="https://github.com/Shubhampatel001/EvoDrive-Genetic-Algorithm-for-Autonomous-Driving">↗ View Project</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🐦 Flappy Bird × NEAT</h3>
+
+<b>Teaching an AI to Play</b>
+
+<br/><br/>
+
+A Flappy Bird implementation where a neural network evolves through neuroevolution and fitness-based optimization.
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NEAT-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pygame-00A86B?style=flat-square"/>
+
+<br/><br/>
+
+<a href="https://github.com/Shubhampatel001/Flappy-Bird-With-NEAT-Algorithm">↗ View Project</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧰 My Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,cpp,js,ts,react,nextjs,angular,nodejs,html,css,tailwind,postgres,mysql,mongodb,docker,gcp,git,github&perline=10" />
+
+</div>
+
+<br/>
+
+<div align="center">
 
 **Languages**
 
 Java · Python · C++ · JavaScript · TypeScript · Gosu
 
-**Backend & APIs**
+<br/><br/>
 
-Spring Boot · Spring Security · REST APIs · Node.js · FastAPI
+**Full Stack**
 
-**Frontend**
+React · Next.js · Angular · Node.js · Spring Boot · FastAPI
 
-React · Next.js · Angular · Tailwind CSS
+<br/><br/>
 
-**Databases**
+**Data & Infrastructure**
 
-PostgreSQL · MySQL · MongoDB
+PostgreSQL · MySQL · MongoDB · Docker · Google Cloud · GitHub Actions
 
-**Cloud & Tools**
+<br/><br/>
 
-Google Cloud · Git · GitHub Actions · Docker · Swagger · JWT
-
-**AI / ML**
+**AI**
 
 RAG · Embeddings · LLM APIs · Genetic Algorithms · NEAT
 
----
-
-## Featured Projects
-
-### Perplexa — RAG Search & Chat
-
-AI-powered search and chat application using retrieval-augmented generation, web retrieval, embeddings, multiple LLM providers, and MongoDB.
-
-**Focus:** RAG · NLP · Embeddings · LLM APIs · Python · Streamlit · MongoDB
-
-[View repository →](https://github.com/Shubhampatel001/Perplexa)
+</div>
 
 ---
 
-### FarmAid — Agricultural Loan Platform
-
-Full-stack platform for farmers to discover loan schemes, apply online, track applications, and for loan officers to manage approvals.
-
-**Focus:** Java · Spring Boot · Spring Security · JWT · Angular · MySQL · Docker · GitHub Actions
-
-[View repository →](https://github.com/Shubhampatel001/farmAid)
-
----
-
-### EvoDrive — Evolutionary Autonomous Driving
-
-Browser-based autonomous driving simulation combining genetic algorithms, pathfinding, collision detection, and procedural environments.
-
-**Focus:** JavaScript · Genetic Algorithms · Dijkstra · Simulation
-
-[View repository →](https://github.com/Shubhampatel001/EvoDrive-Genetic-Algorithm-for-Autonomous-Driving)
-
----
-
-### Flappy Bird + NEAT
-
-Classic Flappy Bird controlled by an evolving neural network, demonstrating neuroevolution and fitness-based learning.
-
-**Focus:** Python · NEAT · Pygame · Neural Networks
-
-[View repository →](https://github.com/Shubhampatel001/Flappy-Bird-With-NEAT-Algorithm)
-
----
-
-## Certifications
-
-- Guidewire Certified Associate — Jutro Developer
-- Google Cloud Architect Specialization
-- Google Cloud Engineer Specialization
-- Google Cloud Security Specialization
-- GitHub Copilot Fundamentals
-
----
-
-## Let's Connect
-
-I'm interested in backend engineering, cloud, AI applications, and opportunities to build useful products.
-
-**Email:** vtshubham01@gmail.com
+# 🏆 Certifications
 
 <div align="center">
 
-*"Build things that are useful. Learn things that compound."*
+<img src="https://img.shields.io/badge/Guidewire-Jutro%20Developer-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google%20Cloud-Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Cloud-Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Cloud-Security-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-Copilot%20Fundamentals-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
+
+---
+
+# 🎯 Currently Building
+
+<div align="center">
+
+| 🔨 Building | 🧠 Learning | 🌱 Exploring |
+|:---:|:---:|:---:|
+| Full-Stack Products | DSA & System Design | AI Engineering |
+| AI-powered Tools | Spring Boot | Cloud Architecture |
+
+</div>
+
+---
+
+# ⚡ Beyond Code
+
+<div align="center">
+
+🏋️ **Gym** &nbsp;&nbsp; 🏃 **Running** &nbsp;&nbsp; 🥾 **Trekking** &nbsp;&nbsp; 🧠 **Learning**
+
+<br/><br/>
+
+<i>"Build useful things. Learn relentlessly. Keep shipping."</i>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="mailto:vtshubham01@gmail.com">
+<img src="https://img.shields.io/badge/Let's%20Build%20Something-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Shubhampatel001&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:111827&height=100&section=footer" width="100%"/>
