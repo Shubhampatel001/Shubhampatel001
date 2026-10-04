@@ -10,13 +10,13 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/Shubhampatel001/portfolio">
+<a href="[https://shubhampatel001.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-&nbsp;
+<!-- &nbsp;
 <a href="https://leetcode.com/vtshubham01">
 <img src="https://img.shields.io/badge/LeetCode-Profile-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+</a> -->
 
 </div>
 
